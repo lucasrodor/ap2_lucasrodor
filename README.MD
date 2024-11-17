@@ -1,5 +1,6 @@
 ## 📊 Sistema de Análise Financeira - AP2
-Este é um sistema de análise financeira que auxilia investidores e analistas a tomarem decisões embasadas, utilizando dados reais e estratégias comprovadas. O projeto foi desenvolvido em **Python** com **Streamlit** para o frontend e backend.
+Este é um sistema de análise financeira que auxilia investidores e analistas a tomarem decisões embasadas, utilizando dados reais e estratégias comprovadas. O projeto foi desenvolvido em **Python** com **Streamlit** para o frontend e backend. 
+Esse projeto faz parte da avaliação da avaliação final da matéria de Projeto de Ciência de Dados I do curso de Ciência de Dados e Inteligência Artificial do IBMEC - DF
 
 ## Participantes do Projeto
 
