@@ -48,26 +48,6 @@ Este é um sistema de análise financeira que auxilia investidores e analistas a
   - `datetime`: Manipulação de datas.
   - `requests`: Consumo de APIs externas.
 
-
-### 📂 Estrutura do Projeto
-
-projeto_financeiro/
-├── backend/
-│   ├── views.py             # Funções principais do backend
-│   ├── utils.py             # Funções utilitárias (ex.: validação de datas)
-│   ├── apis.py              # Conexão com as APIs externas
-│   └── config.py            # Configurações gerais e variáveis
-├── frontend/
-│   ├── inicio.py            # Página inicial
-│   ├── planilhao.py         # Página do planilhão
-│   ├── estrategia.py        # Página de estratégia
-│   ├── graficos.py          # Página de gráficos
-├── app.py                   # Arquivo principal para execução do Streamlit
-├── requirements.txt         # Dependências do projeto
-└── README.md                # Documentação do projeto
-
-
-
 ### 🚀 Como Executar o Projeto Localmente
 Siga os passos abaixo para configurar e executar o projeto em sua máquina:
 
